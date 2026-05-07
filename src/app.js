@@ -1,5 +1,5 @@
 // Author: Jase
-// GitLab: 
+// GitHub: https://github.com/jase282/
 
 
 function replacePowersInElement(element) {
